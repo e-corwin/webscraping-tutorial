@@ -5,11 +5,11 @@ I followed a [video tutorial](https://youtu.be/A1s1aGHoODs)  which implements Be
 
 ### Installation
 Open terminal on your local machine and run the following commands:
-'''
+```
 pip install BeautifulSoup
 pip install requests
 pip install lxml
-'''
+```
 Now you should have all the packages installed. 
 
 ### Script
