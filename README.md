@@ -1,6 +1,6 @@
 # Python Webscraping Tutorial
 
-###About
+## About
 I followed a [video tutorial](https://youtu.be/A1s1aGHoODs)  which implements BeautifulSoup, a Python database based on the foundation of HTML analytics engine, used for extracting, analyzing, and editing information in the document object model (DOM) tree of web pages to collect the data. Specifically, this tutorial uses BeautifulSoup to extract the title and transcript from a text box on this [webpage](https://subslikescript.com/movie/Titanic-120338) and exports the data to a txt file. 
 
 ### Installation
